@@ -1,7 +1,7 @@
-Titanic Survival Prediction
+## Titanic Survival Prediction
 This repository contains a Titanic survival prediction project using the famous Titanic dataset. The objective is to predict whether a passenger survived or not based on various features. The dataset is preprocessed and explored using various Python libraries.
 
-Dataset
+### Dataset
 
 The dataset contains the following columns:
 
